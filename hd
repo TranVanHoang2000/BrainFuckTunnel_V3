@@ -1,0 +1,8 @@
+echo -e "\033[1;31mHello Mọi Người ! Tôi Là Trùm 4G \033[0m"
+echo -e "\033[1;32mPhiên Bản: V1 \033[0m"
+echo "Bây giờ là: " $(date +"%H:%M , Ngày %d Tháng %m Năm %Y")
+echo " "
+echo -e "\033[1;33m[1]: Gõ Lệnh tun Hoặc 4g0đ Để Khởi Động Psiphon BrainFuck 4G Miễn Phí\033[0m"
+echo -e "\033[1;34m[2]: Gõ Lệnh exit Để Thoát Nhanh Termux\033[0m"
+echo -e "\033[1;36m[3]: Gõ lệnh Gõ Lệnh "app neko" Để Mở Nekobox' && echo 'Gõ Lệnh "app Tun2tap" Để Mở Tun2tap' && echo 'Gõ Lệnh "app hyper" Để Mở HyperSocksDroid\033[0m"
+echo " "
